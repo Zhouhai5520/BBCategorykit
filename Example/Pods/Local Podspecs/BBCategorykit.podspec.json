@@ -1,0 +1,22 @@
+{
+  "name": "BBCategorykit",
+  "version": "0.1.0",
+  "summary": "A short description of BBCategorykit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zhouhai5520/BBCategorykit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhouhai5520": "zhouhai_5520@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Zhouhai5520/BBCategorykit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BBCategorykit/Classes/**/*"
+}

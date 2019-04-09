@@ -1,0 +1,6 @@
+framework module Pods_BBCategorykit_Tests {
+  umbrella header "Pods-BBCategorykit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - BBCategorykit (0.1.0)
+
+DEPENDENCIES:
+  - BBCategorykit (from `../`)
+
+EXTERNAL SOURCES:
+  BBCategorykit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BBCategorykit: 0835a9599c191c20ee580d3465c49140582451d2
+
+PODFILE CHECKSUM: a33c5f28ecef511023c20f31245d53f91bcae22c
+
+COCOAPODS: 1.5.3

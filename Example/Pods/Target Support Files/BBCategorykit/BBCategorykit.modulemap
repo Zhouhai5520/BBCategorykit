@@ -1,0 +1,6 @@
+framework module BBCategorykit {
+  umbrella header "BBCategorykit-umbrella.h"
+
+  export *
+  module * { export * }
+}
